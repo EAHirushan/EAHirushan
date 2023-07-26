@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hirushan
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on developing pojects
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on developing projects
 - 📫 How to reach me 0762054471
 
 <!---
